@@ -1,0 +1,11 @@
+import math
+print ("the Value of pi is ", math.pi)
+
+import statistics
+x = [10,20,20,30,40,50]
+print (statistics.mean(x))
+print(statistics.median)
+print(statistics.mode)
+
+#some important libraries
+# numpy, pandas, 

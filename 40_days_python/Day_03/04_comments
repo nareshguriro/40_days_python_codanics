@@ -1,0 +1,9 @@
+#subject of python script
+#Author by :Dr Naresh 
+# contact at : github  profile link or email gmail google 
+#step 1 :Why to use single quotation
+#print("Ammar")
+
+
+samosa = ("Allo", "piyaz","Maida","dhanya","phodana")
+print (samosa)
